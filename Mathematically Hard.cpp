@@ -34,13 +34,3 @@ cout << sum[b] - sum[a-1] << "\n";
 }
 return 0;
 }
-
-
-
-
-
-
-
-
-//    ios_base::sync_with_stdio(false);
-//    cin.tie(NULL);

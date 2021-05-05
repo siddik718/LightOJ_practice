@@ -1,4 +1,3 @@
-
 #include<bits/stdc++.h>
 using namespace std;
 #define N 100
@@ -28,6 +27,9 @@ void sieve()
 
     }
 }
+
+// https://forthright48.com/prime-factorization-of-factorial/
+
 void factorize(int n)
 {
 for(int p:prime)

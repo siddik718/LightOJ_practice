@@ -1,3 +1,8 @@
+/**
+solving: nCr = n!/(r!(n-r)!). find the number of 2 and 5 in this as you know the method.
+now p^k = find number of 2 and 5 id p then multiply them by k . ex: 10^2 = factorize(10,2) = 1,factorize(10,5) = 1,factorize(100,2) = 2,factorize(100,5) = 2.
+
+**/
 #include<bits/stdc++.h>
 
 using namespace std;
